@@ -1,5 +1,5 @@
 ## Hi there, introduction to myself - Waris-xbt 👋
-I am an aspiring programmer, who is looking to enhance his knowledge in creating algorithmic trading automations as I progress further in the career I want to achieve. Journey is going to take a very long time, but I will get there in the end and make it to the big leagues, working with prop firms and hedge funds.
+I am an aspiring programmer, looking to enhance his knowledge in creating algorithmic trading automations based on experience in the markets as I progress further in working towards the career I want to achieve. The journey is going to be a long one at that, but I shall make it to end game and work with the big leagues in prop firms and hedge funds.
 
 <!--
 **Waris-xbt/Waris-xbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
